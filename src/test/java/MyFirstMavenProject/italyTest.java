@@ -8,7 +8,8 @@ public class italyTest {
 	public void Showsecond()
 	
 	{
-		System.out.println(" this is 2 italy class ");
+		System.out.println(" this is  italy class ");
+		System.out.println(" this is  italy class ");
 	}
 }
 

@@ -7,7 +7,7 @@ public class CrtTest {
 		 @Test
 			public void ShowFrist()
 			{
-				System.out.println(" this is 1  ");
+				System.out.println(" this is 1111  ");
 			}
 
 }
