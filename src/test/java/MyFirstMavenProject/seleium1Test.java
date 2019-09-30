@@ -9,6 +9,8 @@ public class seleium1Test {
 	public void ShowFrist()
 	{
 		System.out.println(" this is 3 selenium class ");
+		System.out.println(" this is 3 selenium class ");
+		System.out.println(" this is 3 selenium class ");
 	}
 }
 
