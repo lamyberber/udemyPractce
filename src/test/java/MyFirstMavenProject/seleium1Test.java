@@ -12,6 +12,15 @@ public class seleium1Test {
 		System.out.println(" this is 3 selenium class ");
 		System.out.println(" this is 3 selenium class ");
 	}
+
+
+
+public void ShowFrist345()
+{
+	System.out.println(" this is 3 selenium class ");
+	System.out.println(" this is 3 selenium class ");
+	System.out.println(" this is 3 selenium class ");
+}
 }
 
 
