@@ -9,5 +9,18 @@ public class CrtTest {
 			{
 				System.out.println(" this is 1111  ");
 			}
+		 
+		 @Test
+			public void ShowFristw()
+			{
+				System.out.println(" this is 1111  ");
+				
+			}
+		 
+		 @Test
+			public void ShowFrist2()
+			{
+				System.out.println(" this is 1111  ");
+			}
 
 }
